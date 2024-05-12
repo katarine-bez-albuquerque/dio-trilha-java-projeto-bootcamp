@@ -40,7 +40,7 @@ Opção 4 (Option)
 ### Mensagens de Erros Possíveis
 ##### Possible Error Messages
 
-*Erro ao digitar letra no lugar de número (Error when typing letter in place of number):
+Erro ao digitar letra no lugar de número (Error when typing letter in place of number):
 
 <p><img src="./imagens/erro.png" title="Erro ao digitar letra no lugar de número" alt="Erro ao digitar letra no lugar de número"/></p>
 
