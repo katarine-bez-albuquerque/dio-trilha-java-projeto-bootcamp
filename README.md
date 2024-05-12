@@ -25,17 +25,17 @@ A program project that displays Bootcamp data and a menu with choice options, al
 ### Imagens do Projeto:
 ##### Project Images
 
-* Opção 1 (Option)
-    ![Imagens do Projeto - Opção 1](./imagens/opcao1.png "Imagens do Projeto - Opção 1")
+Opção 1 (Option)
+![Imagens do Projeto - Opção 1](./imagens/opcao1.png "Imagens do Projeto - Opção 1")
 
-* Opção 2 (Option)
-    ![Imagens do Projeto - Opção 2](./imagens/opcao2.png "Imagens do Projeto - Opção 2")
+Opção 2 (Option)
+![Imagens do Projeto - Opção 2](./imagens/opcao2.png "Imagens do Projeto - Opção 2")
 
-* Opção 3 (Option)
-    ![Imagens do Projeto - Opção 3](./imagens/opcao3.png "Imagens do Projeto - Opção 3")
+Opção 3 (Option)
+![Imagens do Projeto - Opção 3](./imagens/opcao3.png "Imagens do Projeto - Opção 3")
     
-* Opção 4 (Option)
-    ![Imagens do Projeto - Opção 4](./imagens/opcao4.png "Imagens do Projeto - Opção 4") 
+Opção 4 (Option)
+![Imagens do Projeto - Opção 4](./imagens/opcao4.png "Imagens do Projeto - Opção 4") 
 
 ### Mensagens de Erros Possíveis
 ##### Possible Error Messages
