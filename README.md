@@ -26,23 +26,23 @@ A program project that displays Bootcamp data and a menu with choice options, al
 ##### Project Images
 
 Opção 1 (Option)
-![Imagens do Projeto - Opção 1](./imagens/opcao1.png "Imagens do Projeto - Opção 1")
+<p><img src="./imagens/opcao1.png" title="Imagens do Projeto - Opção 1" alt="Imagens do Projeto - Opção 1"/></p>
 
 Opção 2 (Option)
-![Imagens do Projeto - Opção 2](./imagens/opcao2.png "Imagens do Projeto - Opção 2")
+<p><img src="./imagens/opcao2.png" title="Imagens do Projeto - Opção 2" alt="Imagens do Projeto - Opção 2"/></p>
 
 Opção 3 (Option)
-![Imagens do Projeto - Opção 3](./imagens/opcao3.png "Imagens do Projeto - Opção 3")
-    
+<p><img src="./imagens/opcao3.png" title="Imagens do Projeto - Opção 3" alt="Imagens do Projeto - Opção 3"/></p>
+
 Opção 4 (Option)
-![Imagens do Projeto - Opção 4](./imagens/opcao4.png "Imagens do Projeto - Opção 4") 
+<p><img src="./imagens/opcao4.png" title="Imagens do Projeto - Opção 4" alt="Imagens do Projeto - Opção 4"/></p>
 
 ### Mensagens de Erros Possíveis
 ##### Possible Error Messages
 
-* Erro ao digitar letra no lugar de número (Error when typing letter in place of number):
+*Erro ao digitar letra no lugar de número (Error when typing letter in place of number):
 
-    ![Erro ao digitar letra no lugar de número](./imagens/erro.png "Erro ao digitar letra no lugar de número")
+<p><img src="./imagens/erro.png" title="Erro ao digitar letra no lugar de número" alt="Erro ao digitar letra no lugar de número"/></p>
 
 ### Ferramentas de Desenvolvimento
 
